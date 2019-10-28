@@ -1,4 +1,4 @@
 def func(a):
-    return a * 3
+    return a * 2
 
 print( func(2))
